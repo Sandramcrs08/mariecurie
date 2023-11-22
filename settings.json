@@ -1,0 +1,7 @@
+{
+	"html.format.indentInnerHtml": true,
+	"workbench.editor.tabSizing": "shrink",
+	"editor.defaultFoldingRangeProvider": "vscode.json-language-features",
+	"editor.defaultFormatter": "vscode.json-language-features",
+	"workbench.settings.useSplitJSON": true
+}
